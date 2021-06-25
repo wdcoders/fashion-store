@@ -35,10 +35,9 @@
         <div class="fe-navbar-inner">
             <ul class="fe-navbar-nav">
                 <li class="active"><a href="javascript:void(0)" id="feCategorySidebarOpen"><i class="ri-menu-line ri-xl"></i>Category</a></li>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Shop</a></li>
-                <li><a href="#">Category</a></li>
-                <li><a href="#">Pages</a></li>
+                <li><a href="./index.php">Home</a></li>
+                <li><a href="./shop-grid.php">Shop Grid</a></li>
+                <li><a href="./product-details.php">PRODUCT DETAIL</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
